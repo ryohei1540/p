@@ -12,9 +12,3 @@ Google Cloud Vision APIを利用し、写真にラベル付をする。数個の
 # combination.ipynb
 ラベルの組み合わせを分析  
 [PythonでPairsに登録されている写真にラベル付けをしてみた](https://note.mu/ryohei55/n/nb60b687ef830)
-
-# scraping.py
-Pairsのウェブサイトから会員データをスクレイピングするプログラム
-
-# block_list.py
-スクレイピングしたときにブロックしたユーザーのブロックを解除するプログラム
